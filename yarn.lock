@@ -4341,10 +4341,10 @@
   "resolved" "https://registry.npmjs.org/cyclist/-/cyclist-1.0.1.tgz"
   "version" "1.0.1"
 
-"cypress@^8.0.0":
-  "integrity" "sha512-Hhbc7FtbeCSg5Ui2zxXQLynk7IYGIygG8NqTauS4EtCWyp2k6s4g8P4KUZXwRbhuryN/+/dCd1kPtFbhBx8MuQ=="
-  "resolved" "https://registry.npmjs.org/cypress/-/cypress-8.0.0.tgz"
-  "version" "8.0.0"
+"cypress@^8.1.0":
+  "integrity" "sha512-GXjlqPjY/6HPbQwAp3AvlA1Mk/NoJTAmqVSUhQsuM/1xDpd/FQHkxVuq5h6O6RrAoCXSgpZPXFsVtdqE+FwEJw=="
+  "resolved" "https://registry.npmjs.org/cypress/-/cypress-8.1.0.tgz"
+  "version" "8.1.0"
   dependencies:
     "@cypress/request" "^2.88.5"
     "@cypress/xvfb" "^1.2.4"
